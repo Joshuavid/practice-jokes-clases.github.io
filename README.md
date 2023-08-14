@@ -1,5 +1,1 @@
-### Initialization
-
-```
-npm install && npm start
-```
+Just some exercise about React.
